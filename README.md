@@ -59,3 +59,13 @@ python main_approximate.py
 ```python
 PYTHONHASHSEED=42 python gnn/sign.py
 ```
+
+## Experiment on Iteratively Adding Edges to Graph with One-Hot Attributes
+```python
+python synthetic_identity.py
+```
+
+## Errors on Random Data
+```python
+python error_experiment.py
+```
