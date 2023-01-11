@@ -1,7 +1,20 @@
 # Intrinsic Dimension for Large-Scale Geometric Learning
 
-This repository contains code for the paper **Intrinsic Dimension for Large-Scale Geometric Learning**.
+This repository contains code for the paper [Intrinsic Dimension for Large-Scale Geometric Learning](https://openreview.net/forum?id=85BfDdYMBY).
 
+You can cite this work via the following BibTeX.
+
+```BibTeX
+@article{
+stubbemann2022intrinsic,
+title={Intrinsic Dimension for Large-Scale Geometric Learning},
+author={Maximilian Stubbemann and Tom Hanika and Friedrich Martin Schneider},
+journal={Transactions on Machine Learning Research},
+year={2022},
+url={https://openreview.net/forum?id=85BfDdYMBY},
+note={}
+}
+```
 ## WARNING
 
 Running the scripts will download the needed datasets, which are of different size. 
