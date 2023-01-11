@@ -60,7 +60,7 @@ python baseline/main.py
 ```
 
 ### Approximation of Intrinsic Dimension for ogbn-papers-100M
-WARNING: This will download **ogbn-papers100M** which needs 145GB disk space. Additionally, the scrcipt will need up to 700GB of RAM.
+WARNING: This will download **ogbn-papers100M** which needs 145GB disk space. Additionally, the script will need up to 700GB of RAM.
 
 ```python
 python main_approximate.py
