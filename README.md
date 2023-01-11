@@ -22,7 +22,7 @@ The largest dataset is **ogbn-papers100M** which needs about 145GB and is only d
 
 ## Installation
 Python 3.10 was used for our experiments.
-First create an environment via `[PYTHON3.10COMMAND] -m venv .venv` and then switch into the environment via `source .venv/bin/activate`. Then use `pip install -U pip wheel` and `pip install setuptools==59.5.0`. We made the experience, that other versions of setuptools where not compatible to some of the Pytorch(lighning) packages. 
+First create an environment via `[PYTHON3.10COMMAND] -m venv .venv` and then switch into the environment via `source .venv/bin/activate`. Then use `pip install -U pip wheel` and `pip install setuptools==59.5.0`. We made the experience, that other versions of setuptools where not compatible to some of the Pytorch (Lightning) packages. 
 
 
 ### Installing Pytorch and Pytorch Geometric
